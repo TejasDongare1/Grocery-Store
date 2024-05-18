@@ -403,6 +403,13 @@ section{
     color: var(--black);
     
 }
+
+.quantity-btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    }
 /* 
 .products */
 
