@@ -18,8 +18,8 @@
 
 ## Contributors
 
-<a href="https://github.com/DARSHIKA91/flower-website-group-project-1-icp-7/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DARSHIKA91/flower-website-group-project-1-icp-7" />
+<a href="https://github.com/TejasDongare1/Grocery-Store/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TejasDongare1/Grocery-Store" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
