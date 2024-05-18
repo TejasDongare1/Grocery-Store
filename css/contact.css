@@ -274,6 +274,7 @@ section{
     font-weight: Bolder;
     color: var(--black);
     margin-bottom: 1rem;
+    margin-top: 5rem;
 }
 .heading span{
     font-size: 3rem;
@@ -483,6 +484,44 @@ section{
     border-top: 2px solid black;
 }
 /* footer */
+
+.container{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    
+   
+}
+
+
+.contact-form{
+    width: 90%;
+    padding: 2rem 1rem;
+    margin: 2rem;
+    display: block;
+   
+}
+
+.form-text{
+    width: 90%;
+    padding: .5rem 1rem;
+    margin: 1rem;
+}
+
+.form-email{
+    width: 90%;
+    padding: .5rem 1rem;
+    margin: 1rem;
+
+}
+
+.form-tetxtarea{
+    width: 90%;
+    height: 80%;
+    padding: .5rem 1rem;
+    margin: 1rem;
+}
 
 @media (max-width:991px){
     html{

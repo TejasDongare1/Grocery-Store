@@ -274,6 +274,7 @@ section{
     font-weight: Bolder;
     color: var(--black);
     margin-bottom: 1rem;
+    margin-top: 5rem;
 }
 .heading span{
     font-size: 3rem;
@@ -405,30 +406,56 @@ section{
 /* 
 .products */
 
+/* review */
+.review .review-slider{
+    padding: 1rem;
+
+}
+
+.review .review-slider .box{
+    border: 0px solid;
+    text-align: center;
+    width: 30rem;
+    margin: 1.5rem;
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: var(--box-shadow);
+    transition: .3s ease-in-out;
+    padding: 1rem 1rem;
+}
+
+.review .review-slider .box:hover{
+    box-shadow: 0px 0px 10px 4px black;
+}
+/* review */
+
 /* footer */
 .footer{
     background: white;
+    padding: 0rem 1rem;
 }
 
-.footer .box-container{
+
+
+.footer .box-container-1{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
     gap: 1.5rem;
 }
 
-.footer .box-container .box h3{
+.footer .box-container-1 .box-1 h3{
     font-size: 1.7rem;
     padding: 1rem 0;
     color: var(--black);
 }
-.footer .box-container .box .links{
+.footer .box-container-1 .box-1 .links{
     display: block;
     font-size: 1.1rem;
     color: var(--light-color);
     padding: 0.5rem 0;
 }
 
-.footer .box-container .box p{
+.footer .box-container-1 .box-1 p{
     font-size: 1.1rem;
     color: var(--light-color);
     font-weight: 500;
@@ -436,7 +463,7 @@ section{
     line-height: 1.8;
 }
 
-.footer .box-container .box .share a{
+.footer .box-container-1 .box-1 .share a{
     height: 4rem;
     width: 4rem;
     line-height: 4rem;
@@ -449,12 +476,12 @@ section{
 
 }
 
-.footer .box-container .box .share a:hover{
+.footer .box-container-1 .box-1 .share a:hover{
     background: var(--blue);
     color: white;
 }
 
-.footer .box-container .box .email{
+.footer .box-container-1 .box-1 .email{
     width: 100%;
     margin: .7rem 0;
     padding: 1rem;
@@ -465,7 +492,7 @@ section{
     text-transform: none;
 }
 
-.footer .box-container .box .payment-img{
+.footer .box-container-1 .box-1 .payment-img{
     width: 100%;
     margin: .7rem 0;
     padding: 1rem;
