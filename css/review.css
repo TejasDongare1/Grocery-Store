@@ -345,12 +345,18 @@ section{
 .features .box-container .box img{
     margin: 1rem 0;
     height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
 }
 
 .features .box-container .box h3{
     font-size: 1.7rem;
     line-height: 1.8;
     color: var(--black);
+}
+
+.stars{
+    color: orange;
 }
 
 .features .box-container .box p{
@@ -427,6 +433,12 @@ section{
 .review .review-slider .box:hover{
     box-shadow: 0px 0px 10px 4px black;
 }
+
+.review .review-slider .box img{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+}   
 /* review */
 
 /* footer */
