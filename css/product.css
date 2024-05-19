@@ -342,7 +342,7 @@ section{
     box-shadow: 0px 0px 10px 4px black;
 }
 
-.features .box-container .box img{
+.features .box-container .box .img-1{
     margin: 1rem 0;
     height: 10rem;
 }
@@ -409,6 +409,29 @@ section{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .operator {
+        width: 40px;
+        cursor: pointer;
+    }
+
+    
+    #show-quantity {
+        font-size: 20px;
+        font-weight: bolder;
+    }
+
+    #show-total {
+        font-size: 20px;
+        font-weight: bolder;
     }
 /* 
 .products */
