@@ -1,5 +1,5 @@
 # Smartstore
-### This is a website project based on the [Grocery Smartstore].It is Made By The use of  the HTML & CSS And Javascript
+### This is a website project based on the [Grocery Smartstore].It is Made By The use of  the HTML & CSS And Javascript.
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## [Homepage of the project] (https://grocerysmartstore.netlify.app/) ![alt text](<image/screen.png>)
+## [Homepage of the project] (https://grocerysmartstore.netlify.app/) ![alt text](<image/screen-1.png>)
 
 
 
